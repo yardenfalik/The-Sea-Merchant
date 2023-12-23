@@ -3,9 +3,12 @@
 a simple text-based game build in python based on the 1991 game "Socher Hayam"
 
 
-### How To Play
+## How To Play
 
 Download the game file and run it using python
 
+
+## Links
+[Socher Hayam](https://www.old-games.org/games/socher1)
 
 Made by - [Yarden Falik](https://github.com/yardenfalik)
