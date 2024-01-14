@@ -9,6 +9,6 @@ Download the game file and run it using python
 
 
 ## Links
-the original game - [Socher Hayam](https://www.old-games.org/games/socher1)
+The original game - [Socher Hayam](https://www.old-games.org/games/socher1)
 
 Made by - [Yarden Falik](https://github.com/yardenfalik)
